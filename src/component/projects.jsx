@@ -129,7 +129,7 @@ export default class Projects extends React.Component {
 							</div>
 							<div className="modal-bottom">
 								<a
-									href="https:kadoshiservices.com"
+									href="https://kadoshiservices.com"
 									rel="noreferrer"
 									target="_blank">
 									<h3>View live demo</h3>
